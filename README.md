@@ -1,4 +1,10 @@
 # Hi I Am Anand Kumar
+##  Introduction 
+Hi, I’m Anand Kumar, a passionate Data Scientist with a background in Bachelor of Arts (B.A.) and a strong interest in solving real-world problems through data. I completed a Data Science certification from Dataisgood in 2024, where I gained practical skills in Python, machine learning, and data analytics.
+
+In 2025, I completed a 6-month internship at Uniflde, where I worked under expert mentorship on projects involving exploratory data analysis, predictive modeling, and customer segmentation.
+
+I enjoy working with data to uncover insights and build solutions that support smart decision-making. My goal is to keep growing in the field of data science and contribute to impactful projects.
 
 <!--
 **Anandkumar-lab/Anandkumar-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
